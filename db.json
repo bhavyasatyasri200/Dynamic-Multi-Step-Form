@@ -1,0 +1,50 @@
+{
+  "submissions": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "isEmployed": "Yes",
+      "companyName": "Acme Corp",
+      "jobTitle": "Software Engineer",
+      "newsletterSubscription": true,
+      "preferredContactMethod": "Email"
+    },
+    {
+      "firstName": "Karri ",
+      "lastName": "Bhavya Satya Sri",
+      "email": "karribhavyasatyasri@gmail.com",
+      "isEmployed": "No",
+      "companyName": "",
+      "jobTitle": "",
+      "newsletterSubscription": false,
+      "preferredContactMethod": "SMS",
+      "id": "9XpcKtSYRgo"
+    },
+    {
+      "firstName": "Tetalasumanth",
+      "lastName": "Reddy",
+      "email": "admin@demo.com",
+      "isEmployed": "No",
+      "companyName": "",
+      "jobTitle": "",
+      "newsletterSubscription": true,
+      "preferredContactMethod": "Email",
+      "id": "GPVOZy5kB_c"
+    }
+  ],
+  "availability": [
+    {
+      "id": "1",
+      "email": "test@taken.com",
+      "available": false
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "available": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

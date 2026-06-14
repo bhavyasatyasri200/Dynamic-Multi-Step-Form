@@ -1,0 +1,4 @@
+{
+  "/api/submit-form": "/submissions",
+  "/api/check-email-availability": "/availability"
+}
