@@ -79,11 +79,12 @@ npm test
 
 ## 📱 Screenshots
 
-*Coming Soon - Please run the application to see the stunning glassmorphism-inspired design.*
+## Desktop View
 
-## 🎥 Video Demo
+![Desktop View](src/Desktop_View.png)
 
-*Please check the repository for a demo video link showing the full flow.*
+## Mobile View
+
+![Mobile View](src/Mobile_View.png)
 
 ---
-Built by Antigravity.
